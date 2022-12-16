@@ -1,0 +1,28 @@
+{
+  "start_url": "/",
+  "name": "Glossarie",
+  "short_name": "Glossarie",
+  "icons": [
+    {
+      "src": "/wp-content/themes/glossarie/src/assets/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/wp-content/themes/glossarie/src/assets/favicon/android-chrome-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/wp-content/themes/glossarie/src/assets/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
